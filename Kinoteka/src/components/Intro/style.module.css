@@ -102,6 +102,20 @@
     font-size: 3.5vh;
 }
 
+.forumIntro  .forumLandingMessage2 .testClickForum{
+    height: fit-content;
+    width: fit-content;
+    margin-top: 2vh;
+    font-size: 1.8vh;
+    font-family: "Righteous";
+    color: rgb(0, 255, 20);
+}
+
+.forumIntro  .forumLandingMessage2 a {
+    display: flex;
+    justify-content: center;
+}
+
 .forumIntro  .forumLandingButtons {
     width: 50vh;
     height: fit-content;

@@ -39,6 +39,11 @@ const Intro = ({activeIntro}) => {
                     </div>
                     <div className={styles.forumLandingMessage2}>
                         PRIJAVITE SE DA BUDETE NJEGOV DIO.
+                        <Link to='/forum'>
+                            <div className={styles.testClickForum}>
+                                click to see forum
+                            </div>
+                        </Link>
                     </div>
                     <div className={styles.forumLandingButtons}>
                         <Link to='/prijavaRegistracija'>

@@ -26,3 +26,11 @@
     flex-direction: column;
     align-items: flex-end;
 }
+
+.topic .topicPool a {
+    width: 25%;
+    height: 6vh;
+    padding: 0px;
+    margin: 0%;
+    border: 0px;
+}

@@ -5,3 +5,5 @@ This project is created for Human Computer Interaction class on FESB (Faculty of
 The project started with a low fidelity design which was drawn on paper and can be found in "lowFidelity" folder.
 
 Following that design, with some modifications, the project continued with a high fidelity design which was done in figma and can be found in "highFidelity" folder as well as here "https://www.figma.com/file/ym8SZIj4Ry6UoQtrDqQOFJ/HCI_Project?node-id=10%3A9".
+
+Current progress of the page can be viewed at "https://kinoteka.netlify.app/".

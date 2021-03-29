@@ -1,0 +1,43 @@
+html {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  height: 100%;
+  width: 100%;
+
+  background: rgb(16, 16, 16);
+}
+
+a,
+a:active,
+a:hover {
+  outline-width: 0;
+  text-decoration: none;
+  color: inherit;
+}
+
+article,
+aside,
+details,
+div,
+figcaption,
+figure,
+footer,
+header,
+main,
+menu,
+nav,
+section,
+summary {
+  display: block;
+  height: 100%;
+  width: 100%;
+}

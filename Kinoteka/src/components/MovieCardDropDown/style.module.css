@@ -1,0 +1,65 @@
+.dropDown {
+    width: 95%;
+    height: 22vh;
+    padding: 2.5%;
+    margin: 0vh 0vw 5vh 0vw;
+
+    background: rgba(0, 0, 0);
+    border-radius: 2vh;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.dropDownHide {
+    display: none;
+}
+
+.dropDown .rating {
+    height: calc(100% - 1vh);
+    width: 25%;
+    margin-top: 1vh;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.dropDown .description {
+    height: 100%;
+    width: 72%;
+    margin-right: 3%;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.dropDown .description .movieDescription {
+    width: 100%;
+    height: 65%;
+    margin-bottom: 5%;
+
+    list-style: none;
+    font-size: 1.6vh;
+    font-family: "Righteous";
+    text-transform: uppercase;
+    color: rgba(255,255,255);
+
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.dropDown .description .buttons {
+    width: 100%;
+    height: 20%;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.dropDown .description .buttons a {
+    width: 30%;
+    height: 100%;
+}

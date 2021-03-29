@@ -1,0 +1,9 @@
+.row {
+    width: 100%;
+    height: fit-content;
+    margin-bottom: 5vh;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
